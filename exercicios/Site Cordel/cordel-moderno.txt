@@ -1,67 +1,54 @@
-Cordel Moderno
-Por Milton Duarte
-[SITE: https://www.recantodasletras.com.br/poesias/3186743]
+    <header>
+        Cordel Moderno
+        Por José Eduardo
+    </header>
 
-Estou ficando cansado
-Da tal tecnologia
-Só se fala por e-mail
-Mensagem curta e fria
-Twitter e Facebook
-Antes que eu caduque
-Vou dizer tudo em poesia.
 
-//---
+    Brida, minha flor do sertão,
+    Brilhando com todo seu amor,
+    Teus olhos são a minha canção,
+    Teu sorriso, o sol que me acende,
+    Com você, a vida se entende,
+    Felicidade é nosso valor.
 
-Não é mais como era antes
-É tudo abreviado
-"Você" só tem duas letras
-O "O" e o "E" foi riscado
-Para declarar o amor
-Basta botar uma flor
-E um coração desenhado.
+    No calor de um abraço sincero,
+    Teu jeito me faz sonhar,
+    Como um doce, eu me entrego,
+    Na dança dos sonhos, um par,
+    Teus passos me ensinam a amar,
+    Nessa festa, vamos dançar.
 
-//---
+    O tempo voa, mas ao seu lado,
+    Cada instante é puro encanto,
+    Teu riso é meu abrigo amado,
+    Na luz da lua, um novo canto,
+    Em cada olhar, um mundo santo,
+    Te amo e não há outro pranto.
 
-Arroba agora não pesa
-É parte de um endereço
-Ponto final nem se usa
-Ou vai até no começo
-Agora é .com
-Se o saite é muito bom
-Ele vale um alto preço.
+    Brida, rainha do meu destino,
+    Teu amor é meu porto seguro,
+    Teu carinho, um doce hino,
+    Faz de mim um ser tão puro,
+    Nosso amor é sempre maduro,
+    Na jornada, tudo é divino.
 
-Pra piorar a liguagem
-O emoticom é um risco
-Tem símbolo para tudo
-Ponto e vírgula e um asterisco
-Um beijo significa
-Pra entender como fica
-Decifre esse rabisco.
+    Hoje celebro sua existência,
+    A alegria que você traz,
+    Com você, não há distância,
+    Brinda a vida, que paz!
+    Teu aniversário, um ato audaz,
+    Te amo, Brida, e isso é capaz!
 
-//---
+    Parabéns, amor, que a vida ilumine,
+    Teus sonhos e tudo que deseja,
+    Que a felicidade em ti se domine,
+    Teu coração sempre tenha leveza,
+    Brida, em ti, sinto a beleza,
+    E contigo, a vida é uma ode, que é!
 
-Tenho saudade das cartas
-Escritas com a própria mão
-Mandava no mês de Junho
-Só chegava no Verão
-Mas matava a saudade
-Era texto de verdade
-Nas linhas do coração.
-
-//---
-
-Agora, escrevo e envio
-Chegando na mesma hora
-Mas quando vou prosear
-A pessoa foi embora
-Abriu outro aplicativo
-O mundo ficou cativo
-Da tecnologia do agora.
-
-Felizmente, pra orar
-Não precisa de internet
-Deus escuta todo mundo
-Se quiser, faça esse teste
-Dois pontos são dois joelhos
-Seus lábios são aparelhos
-Deixe que Deus interprete.
+    Neste dia especial, a festa é nossa,
+    Corações juntos, em plena harmonia,
+    Brida, meu amor, minha doce prosa,
+    Celebremos com amor e alegria,
+    Tu és meu sol, minha poesia,
+    Feliz aniversário, minha alegria!
