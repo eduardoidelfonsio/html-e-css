@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        caption {
+            font-size: 1.5em;
+            background-color: rgb(138, 130, 130);
+        }
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        table {
+            width: 750px;
+        }
+        th {
+            border: 1px solid black;
+        }
+        td {
+            border: 1px solid black;
+            padding: 10px;
+
+
+        }
+    </style>
+</head>
+<body>
+    <h1>Exercicio de tabela</h1>
+    <table>
+        <caption>Filmes Favoritos</caption>
+        <thead>
+            <tr>
+                <th scope="col">Grupo</th>
+                <th scope="col">Nomes</th>
+                <th scope="colgroup" colspan="3">Cantores/Cantoras</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th rowspan="2">Mulheres</th>
+                <td>Brida Oliveira Arrais</td>
+                <td>Taylor Swift</td>
+                <td>Olivia Rodrigo</td>
+                <td>Ariana Grande</td>
+            </tr>
+            <tr>
+                <td>Luiza Narcelia Da Silva</td>
+                <td>Zezé de camargo</td>
+                <td>Amado Batista</td>
+                <td>Zezo</td>
+
+                </tr>
+                <tr>
+                    <th rowspan="2">Homens</th>
+                    <td>José Eduardo Da Silva</td>
+                    <td>Frank Ocean</td>
+                    <td>Felipe Ferinha</td>
+                    <td>Cy vilanova </td>
+                </tr>
+                <tr>
+                    <td>João Valentim</td>
+                    <td>Patati e Patata</td>
+                    <td>Mc pipokinha</td>
+                    <td>Galinha Pintadinha</td>
+                </tr>
+            
+        </tbody>
+    </table>
+</body>
+</html>
